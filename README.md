@@ -1,9 +1,11 @@
+<img src="gemini.jpg" alt="Description of the image" width="1000" height="200">
+
 
 <h1 align="center">Hi 👋, I'm Hajar Ed-darrajy 🧕🏻</h1>
 <h3 align="center">a Cyber Security Engineering student</h3>
 
 <div  align="center">
-  <img src="758R.gif" alt="Animated GIF" width="300"/>
+  <img src="758R.gif" alt="Animated GIF" width="300"             position="relative" />
 </div>
 
 
