@@ -1,13 +1,16 @@
-[![MasterHead](gemini.jpg)]
+
 <h1 align="center">Hi 👋, I'm Hajar Ed-darrajy 🧕🏻</h1>
 <h3 align="center">a Cyber Security Engineering student</h3>
-<div class="tenor-gif-embed" data-postid="19996909" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/hacker-gif-19996909">Hacker GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+![Animated GIF](https://i.gifer.com/78wn.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haizy1&label=Profile%20views&color=0e75b6&style=flat" alt="haizy1" /> </p>
-- 👨‍🎓 Fourth-year student in Cyber Defense Engineering at ENSA Marrakech, also a CTF player💻
-- 🌟 Motivated, results-oriented, and passionate about cybersecurity, with a strong foundation in the field.
-- 🚀 Actively seeking a dynamic team where I can leverage my skills in the context of my summer internship.
-- 🌱 Always eager to learn and grow.
-- 📫 How to reach me **hajareddarrajy@gmail.com**
+- 👨‍🎓 Fourth-year student in Cyber Defense Engineering at ENSA Marrakech, also a CTF player💻<br>
+- 🌟 Motivated, results-oriented, and passionate about cybersecurity, with a strong foundation in the field<br>
+- 🚀 Actively seeking a dynamic team where I can leverage my skills in the context of my summer internship.<br>
+- 🌱 Always eager to learn and grow.<br>
+
+- 📫 How to reach me **hajareddarrajy@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
