@@ -1,4 +1,4 @@
-<img src="gemini.jpg" alt="Description of the image" width="1000" height="200">
+<img src="img/8497931.jpg" alt="Description of the image" width="1500" height="300">
 
 
 <h1 align="center">Hi 👋, I'm Hajar Ed-darrajy 🧕🏻</h1>
