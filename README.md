@@ -1,6 +1,3 @@
-<img src="img/8497931.jpg" alt="Description of the image" width="1500" height="300">
-
-
 <h1 align="center">Hi 👋, I'm Hajar Ed-darrajy 🧕🏻</h1>
 <h3 align="center">a Cyber Security Engineering student</h3>
 
