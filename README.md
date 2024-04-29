@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Hajar Ed-darrajy 🧕🏻</h1>
 <h3 align="center">a Cyber Security Engineering student</h3>
 
-![Animated GIF](758R.gif)
+<div  align="center">
+  <img src="758R.gif" alt="Animated GIF" width="300"/>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haizy1&label=Profile%20views&color=0e75b6&style=flat" alt="haizy1" /> </p>
 - 👨‍🎓 Fourth-year student in Cyber Defense Engineering at ENSA Marrakech, also a CTF player💻<br>
