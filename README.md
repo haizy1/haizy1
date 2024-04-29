@@ -17,7 +17,13 @@
 
 - 🌱 Always eager to learn and grow.<br>
 
-- 📫 How to reach me **hajareddarrajy@gmail.com** 
+- 📫 How to reach me **hajareddarrajy@gmail.com**<br>
+
+ 
+
+   <img src="https://tryhackme-badges.s3.amazonaws.com/H.Dr.png" alt="TryHackMe">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
