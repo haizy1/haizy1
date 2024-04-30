@@ -201,3 +201,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haizy1&" alt="haizy1" /></p>
 
+<br>
+
+## Explore the projects that I've worked on below within my repositories 👇🏻👇🏻 
+
