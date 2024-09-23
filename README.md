@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haizy1&label=Profile%20views&color=0e75b6&style=flat" alt="haizy1" /> </p>
 
-- 👨‍🎓 Fourth-year student in Cyber Defense Engineering at ENSA Marrakech, also a CTF player💻<br>
+- 👨‍🎓 Fifth-year student in Cyber Defense Engineering at ENSA Marrakech, also a CTF player💻<br>
 
 - 🌟 Motivated, results-oriented, and passionate about cybersecurity, with a strong foundation in the field<br>
 
-- 🚀 Actively seeking a dynamic team where I can leverage my skills in the context of my summer internship.<br>
+- 🚀 Actively seeking a dynamic team where I can leverage my skills in the context of my end of studies internship **PFE**<br>
 
-- 🌱 Always eager to learn and grow.<br>
+- 🌱 Always eager to learn and grow<br>
 
 - 📫 How to reach me **hajareddarrajy@gmail.com**<br>
 
