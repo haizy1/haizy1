@@ -1,184 +1,115 @@
 <h1 align="center">Hi 👋, I'm Hajar Ed-darrajy</h1>
-<h3 align="center">a Cyber Security Engineer</h3>
+<h3 align="center">Cyber Security Engineer</h3>
 
 <div align="center">
   <img src="78wn.gif" alt="Animated GIF" width="300" style="position: relative;" />
 </div>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=haizy1&label=Profile%20views&color=0e75b6&style=flat" alt="haizy1" />
 </p>
 
-- 🎓 **Cyber Security Engineer**, graduated from ENSA Marrakech
-  
-- 💻- Actively seeking my **first professional opportunity** as a Cyber Security Engineer, with a strong passion for **Offensive Security** and ethical hacking.<br>
+<ul align="left">
+  <li>🎓 <b>Cyber Security Engineer</b>, graduated from ENSA Marrakech</li>
+  <li>💻 Actively seeking my <b>first professional opportunity</b> as a Cyber Security Engineer, with a strong passion for <b>Offensive Security</b> and ethical hacking</li>
+  <li>🌟 Motivated, results-oriented, and passionate about cybersecurity, with a solid foundation in the field</li>
+  <li>🌱 Always eager to learn and grow</li>
+  <li>📫 How to reach me: <b>hajareddarrajy@gmail.com</b></li>
+</ul>
 
-- 🌟 Motivated, results-oriented, and passionate about cybersecurity, with a strong foundation in the field<br>
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/H.Dr.png" alt="TryHackMe Badge" />
+</div>
 
-- 🌱 Always eager to learn and grow<br>
+---
 
-- 📫 How to reach me **hajareddarrajy@gmail.com**<br>
-
- 
-
-   <img src="https://tryhackme-badges.s3.amazonaws.com/H.Dr.png" alt="TryHackMe">
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hajar-ed-darrajy-528382263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hajar-ed-darrajy-528382263" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/hajar-ed-darrajy-528382263" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
+---
 
+<h3 align="center">Languages and Tools:</h3>
 
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React
+      <img src="https://skillicons.dev/icons?i=kali" width="55" height="55" alt="Kali Linux"/><br>Kali
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kali" alt="icon" width="55" height="55" />
-      <br>Kali
+      <img src="https://skillicons.dev/icons?i=bash" width="55" height="55" alt="Bash"/><br>Bash
     </td>
     <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bootstrap" />
-        <br>Bash
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-        <br>Python
-      </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
-      <br>HTML
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python"/><br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="90">
-        <img src="img/Wireshark_icon.svg.png" width="45" height="45" alt="Bootstrap" />
-        <br>wireshark
-    </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Bootstrap" />
-        <br>Git
+      <img src="img/Wireshark_icon.svg.png" width="55" height="55" alt="Wireshark"/><br>Wireshark
     </td>
   </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="Bootstrap" />
-        <br>C
-    </td>
-    <td align="center" width="90">
-        <img src="img/Virtualbox_logo.png" width="45" height="45" alt="Bootstrap" />
-        <br>virtualbox
-    </td>
-    <td align="center" width="90">
-        <img src="img/vmware.png" width="45" height="45" alt="Bootstrap" />
-        <br>vmware
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=latex" width="45" height="45" alt="Bootstrap" />
-        <br>latex
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-        <br>Django
-      </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="Bootstrap" />
-        <br>npm
-    </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="45" height="45" alt="Bootstrap" />
-        <br>ubuntu
-    </td>
-    <td align="center" width="90">
-        <img src="img/mimikatz_sticker.png" width="45" height="45" alt="Bootstrap" />
-        <br>mimikatz
-    </td>
-    <td align="center" width="90">
-        <img src="img/nmap.png" width="45" height="45" alt="Bootstrap" />
-        <br>nmap
-    </td>
-   
 
-  </tr>
   <tr>
     <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="Bootstrap" />
-        <br>vscode
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/><br>Git
     </td>
     <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=windows" width="45" height="45" alt="Bootstrap" />
-        <br>Windows
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++"/><br>C++
     </td>
     <td align="center" width="90">
-        <img src="img/burp-suite-icon.jpg" width="45" height="45" alt="Bootstrap" />
-        <br>Burpsuite
+      <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C"/><br>C
     </td>
     <td align="center" width="90">
-        <img src="img/esxi-logo.png" width="45" height="45" alt="Bootstrap" />
-        <br>Vmware ESXI
+      <img src="img/nmap.png" width="55" height="55" alt="Nmap"/><br>Nmap
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="img/burp-suite-icon.jpg" width="55" height="55" alt="Burp Suite"/><br>Burp Suite
     </td>
     <td align="center" width="90">
-        <img src="img/gns3.png" width="45" height="45" alt="Bootstrap" />
-        <br>gns3
+      <img src="img/metasploit.webp" width="55" height="55" alt="Metasploit"/><br>Metasploit
     </td>
     <td align="center" width="90">
-        <img src="img/metasploit.webp" width="45" height="45" alt="Bootstrap" />
-        <br>metasploit
+      <img src="img/mimikatz_sticker.png" width="55" height="55" alt="Mimikatz"/><br>Mimikatz
+    </td>
+    <td align="center" width="90">
+      <img src="img/gns3.png" width="55" height="55" alt="GNS3"/><br>GNS3
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="img/vmware.png" width="55" height="55" alt="VMware"/><br>VMware
+    </td>
+    <td align="center" width="90">
+      <img src="img/Virtualbox_logo.png" width="55" height="55" alt="VirtualBox"/><br>VirtualBox
+    </td>
+    <td align="center" width="90">
+      <img src="img/esxi-logo.png" width="55" height="55" alt="VMware ESXi"/><br>ESXi
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55" alt="Ubuntu"/><br>Ubuntu
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haizy1&show_icons=true&locale=en&layout=compact" alt="haizy1" />
 </p>
-<hr>
-<br>
-</div>
 
-<!--<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=cedev935&show_icons=true&theme=radical" alt="cedev935"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&hide=html,css&layout=compact&theme=radical" alt="cedev935"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haizy1&show_icons=true&locale=en" alt="haizy1" />
 </p>
-<br>
-<p  align="Right">
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haizy1" alt="haizy1" />
 </p>
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cedev935&theme=radical" alt="cedev935"/>
-</p> 
-
-<div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/cedev935?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=cedev935&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@cedev935's trophy stats"/>
-  </a>
-</div>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cedev935&theme=github_dark)
--->
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haizy1&show_icons=true&locale=en&layout=compact" alt="haizy1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haizy1&show_icons=true&locale=en" alt="haizy1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haizy1&" alt="haizy1" /></p>
 
 <br>
 
-## Explore the projects that I've worked on below within my repositories 👇🏻👇🏻 
-
+<h2 align="center">🚀 Explore the projects I've worked on below 👇🏻👇🏻</h2>
