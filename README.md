@@ -11,7 +11,7 @@
 
 <ul align="left">
   <li>🎓 <b>Cyber Security Engineer</b>, graduated from ENSA Marrakech</li>
-  <li>💻 Actively seeking my <b>first professional opportunity</b> as a Cyber Security Engineer, with a strong passion for <b>Offensive Security</b> and ethical hacking</li>
+  <li>💻 Actively seeking my <b>first professional opportunity</b> as a Cyber Security Engineer, with a strong passion for <b>Offensive Security</b></li>
   <li>🌟 Motivated, results-oriented, and passionate about cybersecurity, with a solid foundation in the field</li>
   <li>🌱 Always eager to learn and grow</li>
   <li>📫 How to reach me: <b>hajareddarrajy@gmail.com</b></li>
