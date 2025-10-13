@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋, I'm Hajar Ed-darrajy </h1>
-<h3 align="center">a Cyber Security Engineering student</h3>
+<h1 align="center">Hi 👋, I'm Hajar Ed-darrajy</h1>
+<h3 align="center">a Cyber Security Engineer</h3>
 
-<div  align="center">
-  <img src="78wn.gif" alt="Animated GIF" width="300"             position="relative" />
+<div align="center">
+  <img src="78wn.gif" alt="Animated GIF" width="300" style="position: relative;" />
 </div>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=haizy1&label=Profile%20views&color=0e75b6&style=flat" alt="haizy1" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haizy1&label=Profile%20views&color=0e75b6&style=flat" alt="haizy1" /> </p>
-
-- 👨‍🎓 Fifth-year student in Cyber Defense Engineering at ENSA Marrakech, also a CTF player💻<br>
+- 🎓 **Cyber Security Engineer**, graduated from ENSA Marrakech
+  
+- 💻- Actively seeking my **first professional opportunity** as a Cyber Security Engineer, with a strong passion for **Offensive Security** and ethical hacking.<br>
 
 - 🌟 Motivated, results-oriented, and passionate about cybersecurity, with a strong foundation in the field<br>
-
-- 🚀 Actively seeking a dynamic team where I can leverage my skills in the context of my end of studies internship **PFE**<br>
 
 - 🌱 Always eager to learn and grow<br>
 
@@ -44,16 +45,8 @@
       <br>Kali
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bootstrap" />
         <br>Bash
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
-        <br>PHP
       </td>
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
@@ -70,14 +63,6 @@
       <br>CSS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Bootstrap" />
-        <br>firebase
-    </td>
-    <td align="center" width="90">
         <img src="img/Wireshark_icon.svg.png" width="45" height="45" alt="Bootstrap" />
         <br>wireshark
     </td>
@@ -87,14 +72,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
-      <br>Java
-    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
       <br>C++
