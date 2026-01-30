@@ -5,9 +5,9 @@
   <img src="78wn.gif" alt="Animated GIF" width="300" style="position: relative;" />
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haizy1&label=Profile%20views&color=0e75b6&style=flat" alt="haizy1" />
-</p>
+</p> -->
 
 <ul align="left">
   <li>🎓 <b>Cyber Security Engineer</b>, graduated from ENSA Marrakech</li>
